@@ -1,0 +1,6 @@
+app:
+  mysql:
+    enabled: true
+    url: root:Pyl123456@(127.0.0.1:3306)/micro_book_mall
+    maxIdleConnection: 100
+    maxOpenConnection: 130
